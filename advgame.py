@@ -1,7 +1,3 @@
-'''Group Members Names: - Shekhar Singh (21BCA2245),
-                          Riti Srivastava (21BCA1251) and 
-                          Sonal Verma (21BCA1768).'''
-
 import random
 def start_game():
     print("Welcome to the Adventure Game!")
