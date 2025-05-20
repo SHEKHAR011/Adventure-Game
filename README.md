@@ -21,5 +21,5 @@ This is a beginner-friendly Python project where players navigate through an adv
 
 ## 🖼️ Game Preview
 
-<img src="ScreenShot4.png" alt="Traffic Simulation Preview" width="700"/>
+<img src="ScreenShot4.png" alt="Traffic Simulation Preview"/>
 
