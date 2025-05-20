@@ -21,5 +21,5 @@ This is a beginner-friendly Python project where players navigate through an adv
 
 ## 🖼️ Game Preview
 
-> Replace `YOUR_IMAGE_PATH` with the actual path (e.g., `screenshots4.png`)
+> screenshots4.png
 
